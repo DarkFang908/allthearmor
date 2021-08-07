@@ -3972,6 +3972,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "titanium_hoe_recipe"
+    },
+    {
+      "name": "RickRoll",
+      "type": "musicdisc",
+      "sortid": 412,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rick_roll"
+    },
+    {
+      "name": "Adios",
+      "type": "painting",
+      "sortid": 413,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "adios"
+    },
+    {
+      "name": "Astley",
+      "type": "painting",
+      "sortid": 414,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "astley"
+    },
+    {
+      "name": "Chungus",
+      "type": "painting",
+      "sortid": 415,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chungus"
     }
   ],
   "variable_elements": [],
@@ -4003,6 +4039,7 @@
       "item.allthearmor.eye_armor_boots": "Eye Boots",
       "item.allthearmor.cooked_mutton_armor_leggings": "Cooked Mutton Leggings",
       "item.allthearmor.obsidian_pickaxe": "Obsidian Pickaxe",
+      "item.allthearmor.rick_roll": "Rick Roll",
       "block.allthearmor.titanium_ore": "Titanium Ore",
       "item.allthearmor.diorite_armor_chestplate": "Diorite Chestplate",
       "item.allthearmor.chicken_armor_chestplate": "Chicken Chestplate",
@@ -4072,6 +4109,7 @@
       "item.allthearmor.oak_armor_leggings": "Oak Leggings",
       "item.allthearmor.raw_beef_armor_chestplate": "Raw Beef Chestplate",
       "item.allthearmor.string_armor_boots": "String Boots",
+      "item.allthearmor.rick_roll.desc": "Plays the rick roll sound effect",
       "item.allthearmor.soil_armor_boots": "Soil Boots",
       "item.allthearmor.tripwire_armor_boots": "Tripwire Boots",
       "item.allthearmor.dragon_armor_chestplate": "Dragon Chestplate",
