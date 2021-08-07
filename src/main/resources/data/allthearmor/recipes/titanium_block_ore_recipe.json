@@ -1,0 +1,13 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "allthearmor:titanium_block"
+    }
+  ],
+  "result": {
+    "item": "allthearmor:titanium_ingot",
+    "count": 9
+  }
+}

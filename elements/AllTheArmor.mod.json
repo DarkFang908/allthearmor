@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "All The Armor",
+    "icon": {
+      "value": "CUSTOM:Emerald_Armor.body"
+    },
+    "showSearch": true
+  }
+}

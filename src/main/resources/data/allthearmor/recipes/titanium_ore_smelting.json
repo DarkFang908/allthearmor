@@ -1,0 +1,12 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:smelting",
+  "experience": 1.2249999999999999,
+  "cookingtime": 200,
+  "ingredient": {
+    "item": "allthearmor:titanium_ore"
+  },
+  "result": {
+    "item": "allthearmor:titanium_ingot"
+  }
+}

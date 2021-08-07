@@ -1,0 +1,42 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "allthearmor:copper_ingot"
+    },
+    "1": {
+      "item": "allthearmor:copper_ingot"
+    },
+    "2": {
+      "item": "allthearmor:copper_ingot"
+    },
+    "3": {
+      "item": "allthearmor:copper_ingot"
+    },
+    "4": {
+      "item": "allthearmor:copper_ingot"
+    },
+    "5": {
+      "item": "allthearmor:copper_ingot"
+    },
+    "6": {
+      "item": "allthearmor:copper_ingot"
+    },
+    "7": {
+      "item": "allthearmor:copper_ingot"
+    },
+    "8": {
+      "item": "allthearmor:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "allthearmor:copper_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "allthearmor:ruby_block"
+    }
+  ],
+  "result": {
+    "item": "allthearmor:ruby",
+    "count": 9
+  }
+}

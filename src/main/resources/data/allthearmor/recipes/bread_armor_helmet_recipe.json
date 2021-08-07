@@ -1,0 +1,29 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:bread"
+    },
+    "1": {
+      "item": "minecraft:bread"
+    },
+    "2": {
+      "item": "minecraft:bread"
+    },
+    "3": {
+      "item": "minecraft:bread"
+    },
+    "5": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "allthearmor:bread_armor_helmet",
+    "count": 1
+  }
+}

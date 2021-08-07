@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cake"
+    },
+    "2": {
+      "item": "minecraft:cake"
+    },
+    "3": {
+      "item": "minecraft:cake"
+    },
+    "4": {
+      "item": "minecraft:cake"
+    },
+    "5": {
+      "item": "minecraft:cake"
+    },
+    "6": {
+      "item": "minecraft:cake"
+    },
+    "7": {
+      "item": "minecraft:cake"
+    },
+    "8": {
+      "item": "minecraft:cake"
+    }
+  },
+  "result": {
+    "item": "allthearmor:cake_armor_chestplate",
+    "count": 1
+  }
+}

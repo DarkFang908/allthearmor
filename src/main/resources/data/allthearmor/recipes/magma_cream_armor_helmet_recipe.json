@@ -1,0 +1,29 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magma_cream"
+    },
+    "1": {
+      "item": "minecraft:magma_cream"
+    },
+    "2": {
+      "item": "minecraft:magma_cream"
+    },
+    "3": {
+      "item": "minecraft:magma_cream"
+    },
+    "5": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "allthearmor:magma_cream_armor_helmet",
+    "count": 1
+  }
+}

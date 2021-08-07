@@ -1,0 +1,36 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dragon_egg"
+    },
+    "1": {
+      "item": "minecraft:dragon_egg"
+    },
+    "2": {
+      "item": "minecraft:dragon_egg"
+    },
+    "3": {
+      "item": "minecraft:dragon_egg"
+    },
+    "5": {
+      "item": "minecraft:dragon_egg"
+    },
+    "6": {
+      "item": "minecraft:dragon_egg"
+    },
+    "8": {
+      "item": "minecraft:dragon_egg"
+    }
+  },
+  "result": {
+    "item": "allthearmor:dragon_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:andesite"
+    },
+    "2": {
+      "item": "minecraft:andesite"
+    },
+    "3": {
+      "item": "minecraft:andesite"
+    },
+    "4": {
+      "item": "minecraft:andesite"
+    },
+    "5": {
+      "item": "minecraft:andesite"
+    },
+    "6": {
+      "item": "minecraft:andesite"
+    },
+    "7": {
+      "item": "minecraft:andesite"
+    },
+    "8": {
+      "item": "minecraft:andesite"
+    }
+  },
+  "result": {
+    "item": "allthearmor:andesite_armor_chestplate",
+    "count": 1
+  }
+}

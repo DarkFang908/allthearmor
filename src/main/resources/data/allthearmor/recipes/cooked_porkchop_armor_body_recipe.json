@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "2": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "3": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "4": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "5": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "6": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "7": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "8": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "result": {
+    "item": "allthearmor:cooked_porkchop_armor_chestplate",
+    "count": 1
+  }
+}

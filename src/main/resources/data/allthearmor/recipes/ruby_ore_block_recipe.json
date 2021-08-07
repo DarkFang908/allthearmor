@@ -1,0 +1,42 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "allthearmor:ruby"
+    },
+    "1": {
+      "item": "allthearmor:ruby"
+    },
+    "2": {
+      "item": "allthearmor:ruby"
+    },
+    "3": {
+      "item": "allthearmor:ruby"
+    },
+    "4": {
+      "item": "allthearmor:ruby"
+    },
+    "5": {
+      "item": "allthearmor:ruby"
+    },
+    "6": {
+      "item": "allthearmor:ruby"
+    },
+    "7": {
+      "item": "allthearmor:ruby"
+    },
+    "8": {
+      "item": "allthearmor:ruby"
+    }
+  },
+  "result": {
+    "item": "allthearmor:ruby_block",
+    "count": 1
+  }
+}

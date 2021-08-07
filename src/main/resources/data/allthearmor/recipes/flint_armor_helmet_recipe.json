@@ -1,0 +1,29 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:flint"
+    },
+    "1": {
+      "item": "minecraft:flint"
+    },
+    "2": {
+      "item": "minecraft:flint"
+    },
+    "3": {
+      "item": "minecraft:flint"
+    },
+    "5": {
+      "item": "minecraft:flint"
+    }
+  },
+  "result": {
+    "item": "allthearmor:flint_armor_helmet",
+    "count": 1
+  }
+}

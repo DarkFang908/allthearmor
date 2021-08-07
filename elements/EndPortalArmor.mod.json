@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "endportal_head",
+    "enableBody": true,
+    "textureBody": "endportal_body",
+    "enableLeggings": true,
+    "textureLeggings": "endportal_leggings",
+    "enableBoots": true,
+    "textureBoots": "endportal_boots",
+    "creativeTab": {
+      "value": "CUSTOM:AllTheArmor"
+    },
+    "armorTextureFile": "endportal",
+    "helmetName": "End Portal Helmet",
+    "bodyName": "End Portal Chestplate",
+    "leggingsName": "End Portal Leggings",
+    "bootsName": "End Portal Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 1024,
+    "damageValueHelmet": 200,
+    "damageValueBody": 500,
+    "damageValueLeggings": 600,
+    "damageValueBoots": 200,
+    "enchantability": 100,
+    "toughness": 10.0,
+    "knockbackResistance": 5.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Blocks.END_PORTAL_FRAME"
+      }
+    ]
+  }
+}

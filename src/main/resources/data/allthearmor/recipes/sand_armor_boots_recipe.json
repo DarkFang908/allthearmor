@@ -1,0 +1,26 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand"
+    },
+    "2": {
+      "item": "minecraft:sand"
+    },
+    "3": {
+      "item": "minecraft:sand"
+    },
+    "5": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "allthearmor:sand_armor_boots",
+    "count": 1
+  }
+}

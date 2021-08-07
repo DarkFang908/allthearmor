@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SAND#0"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SandArmor.legs"
+    },
+    "name": "sand_armor_leggings_recipe",
+    "namespace": "mod"
+  }
+}

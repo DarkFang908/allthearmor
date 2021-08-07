@@ -1,0 +1,13 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "allthearmor:copper_block"
+    }
+  ],
+  "result": {
+    "item": "allthearmor:copper_ingot",
+    "count": 9
+  }
+}

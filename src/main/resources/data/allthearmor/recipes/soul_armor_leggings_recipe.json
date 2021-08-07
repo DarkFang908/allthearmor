@@ -1,0 +1,36 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:soul_sand"
+    },
+    "1": {
+      "item": "minecraft:soul_sand"
+    },
+    "2": {
+      "item": "minecraft:soul_sand"
+    },
+    "3": {
+      "item": "minecraft:soul_sand"
+    },
+    "5": {
+      "item": "minecraft:soul_sand"
+    },
+    "6": {
+      "item": "minecraft:soul_sand"
+    },
+    "8": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "allthearmor:soul_armor_leggings",
+    "count": 1
+  }
+}

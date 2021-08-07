@@ -1,0 +1,23 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:CopperIngot"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:TitaniumIngot"
+    },
+    "smithingReturnStack": {
+      "value": "Items.NETHERITE_SCRAP"
+    },
+    "name": "netherite_crafting_ez_clap",
+    "namespace": "mod"
+  }
+}

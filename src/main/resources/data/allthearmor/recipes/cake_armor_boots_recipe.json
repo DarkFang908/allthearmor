@@ -1,0 +1,26 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cake"
+    },
+    "2": {
+      "item": "minecraft:cake"
+    },
+    "3": {
+      "item": "minecraft:cake"
+    },
+    "5": {
+      "item": "minecraft:cake"
+    }
+  },
+  "result": {
+    "item": "allthearmor:cake_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "allthearmor:items/titanium_shovel"
+  }
+}

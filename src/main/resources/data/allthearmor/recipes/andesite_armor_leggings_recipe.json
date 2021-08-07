@@ -1,0 +1,36 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:andesite"
+    },
+    "1": {
+      "item": "minecraft:andesite"
+    },
+    "2": {
+      "item": "minecraft:andesite"
+    },
+    "3": {
+      "item": "minecraft:andesite"
+    },
+    "5": {
+      "item": "minecraft:andesite"
+    },
+    "6": {
+      "item": "minecraft:andesite"
+    },
+    "8": {
+      "item": "minecraft:andesite"
+    }
+  },
+  "result": {
+    "item": "allthearmor:andesite_armor_leggings",
+    "count": 1
+  }
+}

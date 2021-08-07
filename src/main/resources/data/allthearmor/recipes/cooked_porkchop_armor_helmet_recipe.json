@@ -1,0 +1,29 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "1": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "2": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "3": {
+      "item": "minecraft:cooked_porkchop"
+    },
+    "5": {
+      "item": "minecraft:cooked_porkchop"
+    }
+  },
+  "result": {
+    "item": "allthearmor:cooked_porkchop_armor_helmet",
+    "count": 1
+  }
+}

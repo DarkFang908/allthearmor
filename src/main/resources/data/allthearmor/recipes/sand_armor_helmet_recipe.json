@@ -1,0 +1,29 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand"
+    },
+    "1": {
+      "item": "minecraft:sand"
+    },
+    "2": {
+      "item": "minecraft:sand"
+    },
+    "3": {
+      "item": "minecraft:sand"
+    },
+    "5": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "allthearmor:sand_armor_helmet",
+    "count": 1
+  }
+}

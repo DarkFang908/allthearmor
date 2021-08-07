@@ -1,0 +1,29 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:granite"
+    },
+    "1": {
+      "item": "minecraft:granite"
+    },
+    "2": {
+      "item": "minecraft:granite"
+    },
+    "3": {
+      "item": "minecraft:granite"
+    },
+    "5": {
+      "item": "minecraft:granite"
+    }
+  },
+  "result": {
+    "item": "allthearmor:granite_armor_helmet",
+    "count": 1
+  }
+}

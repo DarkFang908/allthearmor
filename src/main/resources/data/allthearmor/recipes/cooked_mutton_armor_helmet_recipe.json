@@ -1,0 +1,29 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "1": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "2": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "3": {
+      "item": "minecraft:cooked_mutton"
+    },
+    "5": {
+      "item": "minecraft:cooked_mutton"
+    }
+  },
+  "result": {
+    "item": "allthearmor:cooked_mutton_armor_helmet",
+    "count": 1
+  }
+}

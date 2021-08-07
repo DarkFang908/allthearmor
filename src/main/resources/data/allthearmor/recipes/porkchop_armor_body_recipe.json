@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:porkchop"
+    },
+    "2": {
+      "item": "minecraft:porkchop"
+    },
+    "3": {
+      "item": "minecraft:porkchop"
+    },
+    "4": {
+      "item": "minecraft:porkchop"
+    },
+    "5": {
+      "item": "minecraft:porkchop"
+    },
+    "6": {
+      "item": "minecraft:porkchop"
+    },
+    "7": {
+      "item": "minecraft:porkchop"
+    },
+    "8": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result": {
+    "item": "allthearmor:porkchop_armor_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:shulker_shell"
+    },
+    "2": {
+      "item": "minecraft:shulker_shell"
+    },
+    "3": {
+      "item": "minecraft:shulker_shell"
+    },
+    "4": {
+      "item": "minecraft:shulker_shell"
+    },
+    "5": {
+      "item": "minecraft:shulker_shell"
+    },
+    "6": {
+      "item": "minecraft:shulker_shell"
+    },
+    "7": {
+      "item": "minecraft:shulker_shell"
+    },
+    "8": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "result": {
+    "item": "allthearmor:shulker_armor_chestplate",
+    "count": 1
+  }
+}

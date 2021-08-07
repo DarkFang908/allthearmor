@@ -1,0 +1,26 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:pumpkin"
+    },
+    "2": {
+      "item": "minecraft:pumpkin"
+    },
+    "3": {
+      "item": "minecraft:pumpkin"
+    },
+    "5": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "result": {
+    "item": "allthearmor:pumpkin_armor_boots",
+    "count": 1
+  }
+}

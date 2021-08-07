@@ -1,0 +1,11 @@
+{
+  "rick_roll": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "allthearmor:rickroll",
+        "stream": false
+      }
+    ]
+  }
+}

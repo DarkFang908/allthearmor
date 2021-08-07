@@ -1,0 +1,30 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "allthearmor:ruby"
+    },
+    "1": {
+      "item": "allthearmor:ruby"
+    },
+    "2": {
+      "item": "allthearmor:ruby"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "7": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "allthearmor:ruby_2_pickaxe",
+    "count": 1
+  }
+}

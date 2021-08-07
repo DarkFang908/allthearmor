@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:magma_cream"
+    },
+    "2": {
+      "item": "minecraft:magma_cream"
+    },
+    "3": {
+      "item": "minecraft:magma_cream"
+    },
+    "4": {
+      "item": "minecraft:magma_cream"
+    },
+    "5": {
+      "item": "minecraft:magma_cream"
+    },
+    "6": {
+      "item": "minecraft:magma_cream"
+    },
+    "7": {
+      "item": "minecraft:magma_cream"
+    },
+    "8": {
+      "item": "minecraft:magma_cream"
+    }
+  },
+  "result": {
+    "item": "allthearmor:magma_cream_armor_chestplate",
+    "count": 1
+  }
+}

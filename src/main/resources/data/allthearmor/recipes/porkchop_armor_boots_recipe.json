@@ -1,0 +1,26 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:porkchop"
+    },
+    "2": {
+      "item": "minecraft:porkchop"
+    },
+    "3": {
+      "item": "minecraft:porkchop"
+    },
+    "5": {
+      "item": "minecraft:porkchop"
+    }
+  },
+  "result": {
+    "item": "allthearmor:porkchop_armor_boots",
+    "count": 1
+  }
+}

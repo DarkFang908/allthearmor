@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "2": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "3": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "4": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "5": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "6": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "7": {
+      "item": "minecraft:end_portal_frame"
+    },
+    "8": {
+      "item": "minecraft:end_portal_frame"
+    }
+  },
+  "result": {
+    "item": "allthearmor:end_portal_armor_chestplate",
+    "count": 1
+  }
+}

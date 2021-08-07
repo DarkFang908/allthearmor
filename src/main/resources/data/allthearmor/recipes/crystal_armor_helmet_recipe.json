@@ -1,0 +1,29 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_crystal"
+    },
+    "1": {
+      "item": "minecraft:end_crystal"
+    },
+    "2": {
+      "item": "minecraft:end_crystal"
+    },
+    "3": {
+      "item": "minecraft:end_crystal"
+    },
+    "5": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "result": {
+    "item": "allthearmor:crystal_armor_helmet",
+    "count": 1
+  }
+}

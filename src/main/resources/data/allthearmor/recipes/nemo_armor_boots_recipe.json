@@ -1,0 +1,26 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:tropical_fish"
+    },
+    "2": {
+      "item": "minecraft:tropical_fish"
+    },
+    "3": {
+      "item": "minecraft:tropical_fish"
+    },
+    "5": {
+      "item": "minecraft:tropical_fish"
+    }
+  },
+  "result": {
+    "item": "allthearmor:nemo_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "nemo_head",
+    "enableBody": true,
+    "textureBody": "nemo_body",
+    "enableLeggings": true,
+    "textureLeggings": "nemo_leggings",
+    "enableBoots": true,
+    "textureBoots": "nemo_boots",
+    "creativeTab": {
+      "value": "CUSTOM:AllTheArmor"
+    },
+    "armorTextureFile": "nemo",
+    "helmetName": "Nemo Helmet",
+    "bodyName": "Nemo Chestplate",
+    "leggingsName": "Nemo Leggings",
+    "bootsName": "Nemo Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 6,
+    "damageValueHelmet": 1,
+    "damageValueBody": 2,
+    "damageValueLeggings": 2,
+    "damageValueBoots": 1,
+    "enchantability": 4,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Items.FISH#2"
+      }
+    ]
+  }
+}

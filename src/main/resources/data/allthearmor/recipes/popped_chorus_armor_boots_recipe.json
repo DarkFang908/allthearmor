@@ -1,0 +1,26 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "2": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "3": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "5": {
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  },
+  "result": {
+    "item": "allthearmor:popped_chorus_armor_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dragon_egg"
+    },
+    "1": {
+      "item": "minecraft:dragon_egg"
+    },
+    "2": {
+      "item": "minecraft:dragon_egg"
+    },
+    "3": {
+      "item": "minecraft:dragon_egg"
+    },
+    "5": {
+      "item": "minecraft:dragon_egg"
+    }
+  },
+  "result": {
+    "item": "allthearmor:dragon_armor_helmet",
+    "count": 1
+  }
+}

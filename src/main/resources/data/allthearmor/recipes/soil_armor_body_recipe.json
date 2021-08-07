@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:soul_soil"
+    },
+    "2": {
+      "item": "minecraft:soul_soil"
+    },
+    "3": {
+      "item": "minecraft:soul_soil"
+    },
+    "4": {
+      "item": "minecraft:soul_soil"
+    },
+    "5": {
+      "item": "minecraft:soul_soil"
+    },
+    "6": {
+      "item": "minecraft:soul_soil"
+    },
+    "7": {
+      "item": "minecraft:soul_soil"
+    },
+    "8": {
+      "item": "minecraft:soul_soil"
+    }
+  },
+  "result": {
+    "item": "allthearmor:soil_armor_chestplate",
+    "count": 1
+  }
+}

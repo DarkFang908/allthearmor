@@ -1,0 +1,36 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sand"
+    },
+    "1": {
+      "item": "minecraft:sand"
+    },
+    "2": {
+      "item": "minecraft:sand"
+    },
+    "3": {
+      "item": "minecraft:sand"
+    },
+    "5": {
+      "item": "minecraft:sand"
+    },
+    "6": {
+      "item": "minecraft:sand"
+    },
+    "8": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "allthearmor:sand_armor_leggings",
+    "count": 1
+  }
+}

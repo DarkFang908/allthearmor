@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "2": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "3": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "4": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "5": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "6": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "7": {
+      "item": "minecraft:popped_chorus_fruit"
+    },
+    "8": {
+      "item": "minecraft:popped_chorus_fruit"
+    }
+  },
+  "result": {
+    "item": "allthearmor:popped_chorus_armor_chestplate",
+    "count": 1
+  }
+}

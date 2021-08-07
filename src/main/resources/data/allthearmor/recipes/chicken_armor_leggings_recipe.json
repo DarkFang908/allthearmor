@@ -1,0 +1,36 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chicken"
+    },
+    "1": {
+      "item": "minecraft:chicken"
+    },
+    "2": {
+      "item": "minecraft:chicken"
+    },
+    "3": {
+      "item": "minecraft:chicken"
+    },
+    "5": {
+      "item": "minecraft:chicken"
+    },
+    "6": {
+      "item": "minecraft:chicken"
+    },
+    "8": {
+      "item": "minecraft:chicken"
+    }
+  },
+  "result": {
+    "item": "allthearmor:chicken_armor_leggings",
+    "count": 1
+  }
+}

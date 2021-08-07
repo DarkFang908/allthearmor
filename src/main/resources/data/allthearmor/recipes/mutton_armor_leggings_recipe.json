@@ -1,0 +1,36 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mutton"
+    },
+    "1": {
+      "item": "minecraft:mutton"
+    },
+    "2": {
+      "item": "minecraft:mutton"
+    },
+    "3": {
+      "item": "minecraft:mutton"
+    },
+    "5": {
+      "item": "minecraft:mutton"
+    },
+    "6": {
+      "item": "minecraft:mutton"
+    },
+    "8": {
+      "item": "minecraft:mutton"
+    }
+  },
+  "result": {
+    "item": "allthearmor:mutton_armor_leggings",
+    "count": 1
+  }
+}

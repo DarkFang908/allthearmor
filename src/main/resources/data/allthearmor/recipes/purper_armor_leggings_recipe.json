@@ -1,0 +1,36 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:purpur_block"
+    },
+    "1": {
+      "item": "minecraft:purpur_block"
+    },
+    "2": {
+      "item": "minecraft:purpur_block"
+    },
+    "3": {
+      "item": "minecraft:purpur_block"
+    },
+    "5": {
+      "item": "minecraft:purpur_block"
+    },
+    "6": {
+      "item": "minecraft:purpur_block"
+    },
+    "8": {
+      "item": "minecraft:purpur_block"
+    }
+  },
+  "result": {
+    "item": "allthearmor:purper_armor_leggings",
+    "count": 1
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_crystal"
+    },
+    "2": {
+      "item": "minecraft:end_crystal"
+    },
+    "3": {
+      "item": "minecraft:end_crystal"
+    },
+    "4": {
+      "item": "minecraft:end_crystal"
+    },
+    "5": {
+      "item": "minecraft:end_crystal"
+    },
+    "6": {
+      "item": "minecraft:end_crystal"
+    },
+    "7": {
+      "item": "minecraft:end_crystal"
+    },
+    "8": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "result": {
+    "item": "allthearmor:crystal_armor_chestplate",
+    "count": 1
+  }
+}

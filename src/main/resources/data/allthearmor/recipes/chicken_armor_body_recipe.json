@@ -1,0 +1,39 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:chicken"
+    },
+    "2": {
+      "item": "minecraft:chicken"
+    },
+    "3": {
+      "item": "minecraft:chicken"
+    },
+    "4": {
+      "item": "minecraft:chicken"
+    },
+    "5": {
+      "item": "minecraft:chicken"
+    },
+    "6": {
+      "item": "minecraft:chicken"
+    },
+    "7": {
+      "item": "minecraft:chicken"
+    },
+    "8": {
+      "item": "minecraft:chicken"
+    }
+  },
+  "result": {
+    "item": "allthearmor:chicken_armor_chestplate",
+    "count": 1
+  }
+}

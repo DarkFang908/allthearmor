@@ -1,0 +1,36 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:end_crystal"
+    },
+    "1": {
+      "item": "minecraft:end_crystal"
+    },
+    "2": {
+      "item": "minecraft:end_crystal"
+    },
+    "3": {
+      "item": "minecraft:end_crystal"
+    },
+    "5": {
+      "item": "minecraft:end_crystal"
+    },
+    "6": {
+      "item": "minecraft:end_crystal"
+    },
+    "8": {
+      "item": "minecraft:end_crystal"
+    }
+  },
+  "result": {
+    "item": "allthearmor:crystal_armor_leggings",
+    "count": 1
+  }
+}

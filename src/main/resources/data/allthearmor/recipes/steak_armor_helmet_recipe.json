@@ -1,0 +1,29 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cooked_beef"
+    },
+    "1": {
+      "item": "minecraft:cooked_beef"
+    },
+    "2": {
+      "item": "minecraft:cooked_beef"
+    },
+    "3": {
+      "item": "minecraft:cooked_beef"
+    },
+    "5": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "result": {
+    "item": "allthearmor:steak_armor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cooked_beef"
+    },
+    "1": {
+      "item": "minecraft:cooked_beef"
+    },
+    "2": {
+      "item": "minecraft:cooked_beef"
+    },
+    "3": {
+      "item": "minecraft:cooked_beef"
+    },
+    "5": {
+      "item": "minecraft:cooked_beef"
+    },
+    "6": {
+      "item": "minecraft:cooked_beef"
+    },
+    "8": {
+      "item": "minecraft:cooked_beef"
+    }
+  },
+  "result": {
+    "item": "allthearmor:steak_armor_leggings",
+    "count": 1
+  }
+}

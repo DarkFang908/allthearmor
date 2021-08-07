@@ -1,0 +1,26 @@
+{
+  "group": "allthearmor",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:shulker_shell"
+    },
+    "2": {
+      "item": "minecraft:shulker_shell"
+    },
+    "3": {
+      "item": "minecraft:shulker_shell"
+    },
+    "5": {
+      "item": "minecraft:shulker_shell"
+    }
+  },
+  "result": {
+    "item": "allthearmor:shulker_armor_boots",
+    "count": 1
+  }
+}

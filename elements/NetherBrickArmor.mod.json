@@ -1,0 +1,58 @@
+{
+  "_fv": 18,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "netherbrick_head",
+    "enableBody": true,
+    "textureBody": "netherbrick_body",
+    "enableLeggings": true,
+    "textureLeggings": "netherbrick_leggings",
+    "enableBoots": true,
+    "textureBoots": "netherbrick_boots",
+    "creativeTab": {
+      "value": "CUSTOM:AllTheArmor"
+    },
+    "armorTextureFile": "netherbrick",
+    "helmetName": "Nether Brick Helmet",
+    "bodyName": "Nether Brick Chestplate",
+    "leggingsName": "Nether Brick Leggings",
+    "bootsName": "Nether Brick Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "maxDamage": 17,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 7,
+    "damageValueBoots": 2,
+    "enchantability": 10,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": [
+      {
+        "value": "Items.NETHERBRICK"
+      }
+    ]
+  }
+}
